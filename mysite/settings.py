@@ -107,6 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # https://docs.djangoproject.com/en/1.9/topics/i18n/
 
 LANGUAGE_CODE = 'es-ES'
+# LANGUAGE_CODE = 'en'
 
 TIME_ZONE = 'America/Panama'
 
@@ -123,8 +124,8 @@ LANGUAGES = (
     ('es', gettext('Spanish')),
     ('en', gettext('English')),
 )
-MODELTRANSLATION_DEFAULT_LANGUAGE = 'es'
-MODELTRANSLATION_PREPOPULATE_LANGUAGE = 'es'
+#MODELTRANSLATION_DEFAULT_LANGUAGE = 'es'
+#MODELTRANSLATION_PREPOPULATE_LANGUAGE = 'es'
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.9/howto/static-files/

@@ -1,6 +1,6 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Lobster';
+    font-family: 'Kaushan Script';
 }
 
 body {
@@ -8,7 +8,7 @@ body {
 }
 
 .page-header {
-    background-color: #ff9400;
+    background-color: #2196DE;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -44,7 +44,7 @@ h1, h2, h3, h4 {
     color: #ffffff;
     float: right;
     font-size: 26pt;
-    margin-right: 20px;
+    margin-right: 550px;
 }
 
 .post {
